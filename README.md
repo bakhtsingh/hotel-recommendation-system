@@ -29,3 +29,11 @@ To get this project up and running on your local machine, follow these steps:
    ```bash
    git clone https://github.com/bakhtsingh/hotel-recommendation-system.git
    cd hotel-recommendation-system
+
+2. **Install required libraries**
+   ```bash
+   pip install flask pandas numpy scikit-learn sentence-transformers
+
+3. **Install required libraries**
+   ```bash
+   python hotel_recommender_app.py
