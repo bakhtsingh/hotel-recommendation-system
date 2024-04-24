@@ -12,7 +12,7 @@ This Hotel Recommender System uses natural language processing to analyze hotel 
 
 ## Demo Video
 Watch this short demonstration of the system in action:
-[![Demo Video](https://youtu.be/M5F_n_GYDgg)]
+[![Demo Video](https://img.youtube.com/vi/M5F_n_GYDgg/0.jpg)](https://www.youtube.com/watch?v=M5F_n_GYDgg)
 
 ## Technologies Used
 - Python 3
