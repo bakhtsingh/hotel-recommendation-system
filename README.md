@@ -27,5 +27,5 @@ To get this project up and running on your local machine, follow these steps:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/hotel-recommender-system.git
-   cd hotel-recommender-system
+   git clone https://github.com/bakhtsingh/hotel-recommendation-system.git
+   cd hotel-recommendation-system
